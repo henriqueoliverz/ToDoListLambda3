@@ -1,0 +1,1 @@
+Projeto feito a partir do template padrão do Xamarin (Master Detail Page) com modificações para alcançar os requisitos feitos pelos examinadores. Muito obrigado mais uma vez pela oportunidade Equipe Lambda<3! 
