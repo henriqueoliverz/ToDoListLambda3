@@ -42,5 +42,10 @@ namespace ToDoListLambda3.Views
             if (viewModel.Items.Count == 0)
                 viewModel.LoadItemsCommand.Execute(null);
         }
+
+        private async void Switch_Toggled(object sender, ToggledEventArgs e)
+        {
+            await DisplayAlert("Oops", "Faltou um evento para eu dar UPDATE! kkkkkkkk", "Ok, iremos fazer!");
+        }
     }
 }
